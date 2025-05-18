@@ -1,3 +1,4 @@
+# KNN usigng elbow method
 df = pd.read_csv('kmeans_data.csv')
 df.dropna(inplace=True)
 
