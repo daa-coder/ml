@@ -4,7 +4,7 @@
 this is a repo created as a reference for the praticals;
 Happy Learning :)
 
-## Folder Structure
+#Folder Structure
 *gaand maar*
 
 
